@@ -24,7 +24,7 @@ Use below buttons for simplicity!
             InlineKeyboardButton("BOOK NOW", callback_data="help"),
             InlineKeyboardButton("ABOUT US", callback_data="about")
         ],
-        [InlineKeyboardButton("♥ More Amazing bots ♥", url="t.me/+q1sRemgkxDJhMmRk")],  ]
+        [InlineKeyboardButton("JOIN OUR CHANNEL", url="t.me/+q1sRemgkxDJhMmRk")],  ]
 
     # Help Message
     HELP = """
